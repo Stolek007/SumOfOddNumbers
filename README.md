@@ -1,0 +1,2 @@
+# SumOfOddNumbers
+JavaScript Codewars Exercise
