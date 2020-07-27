@@ -7,7 +7,11 @@ Given the triangle of consecutive odd numbers:
        7     9    11
    13    15    17    19
 21    23    25    27    29
+
 ...
+
+**Screen:**https://imgur.com/a/65lKdjb
+
 Calculate the row sums of this triangle from the row index (starting at index 1) e.g.:
 
 rowSumOddNumbers(1); // 1
